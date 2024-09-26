@@ -1,0 +1,42 @@
+﻿@model Models.RegisterViewModel 
+
+
+<div>
+<form asp-action="SaveRegister">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="form-group"> 
+        <label asp-for="@Model.Username" class="Control-label"></label> 
+        <input asp-for="@Model.Username" class="form-control"/> 
+        <span asp-validation-for="@Model.Username"></span>
+
+    </div>
+        <div class="form-group"> 
+        <label asp-for="@Model.Password" class="Control-label"></label> 
+        <input asp-for="@Model.Password" class="form-control"/> 
+        <span asp-validation-for="@Model.Password"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="@Model.ConfirmPassword" class="Control-label"></label>
+        <input asp-for="@Model.ConfirmPassword" class="form-control" />
+        <span asp-validation-for="@Model.ConfirmPassword"></span>
+
+    </div>
+    <div class="form-group">
+        <label asp-for="@Model.Address" class="Control-label"></label>
+        <input asp-for="@Model.Address" class="form-control" />
+        <span asp-validation-for="@Model.Address"></span>
+
+    </div>
+
+    <div class="form-group">
+        <button type="submit" value="Create" class="btn btn-primary"></button>
+    </div>
+
+</form> 
+
+
+<div> 
+    <a asp-action="Index">Back to login</a>
+</div>
+</div>

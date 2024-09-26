@@ -1,0 +1,11 @@
+G:\ITI Projects\ASP.NET\DTOs\bin\Debug\net8.0\DTOs.deps.json
+G:\ITI Projects\ASP.NET\DTOs\bin\Debug\net8.0\DTOs.dll
+G:\ITI Projects\ASP.NET\DTOs\bin\Debug\net8.0\DTOs.pdb
+G:\ITI Projects\ASP.NET\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI Projects\ASP.NET\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+G:\ITI Projects\ASP.NET\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+G:\ITI Projects\ASP.NET\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+G:\ITI Projects\ASP.NET\DTOs\obj\Debug\net8.0\DTOs.dll
+G:\ITI Projects\ASP.NET\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+G:\ITI Projects\ASP.NET\DTOs\obj\Debug\net8.0\DTOs.pdb
+G:\ITI Projects\ASP.NET\DTOs\obj\Debug\net8.0\ref\DTOs.dll

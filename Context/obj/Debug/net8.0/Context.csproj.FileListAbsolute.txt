@@ -1,0 +1,17 @@
+G:\ITI Projects\ASP.NET\Context\bin\Debug\net8.0\Context.deps.json
+G:\ITI Projects\ASP.NET\Context\bin\Debug\net8.0\Context.runtimeconfig.json
+G:\ITI Projects\ASP.NET\Context\bin\Debug\net8.0\Context.dll
+G:\ITI Projects\ASP.NET\Context\bin\Debug\net8.0\Context.pdb
+G:\ITI Projects\ASP.NET\Context\bin\Debug\net8.0\Models.dll
+G:\ITI Projects\ASP.NET\Context\bin\Debug\net8.0\Models.pdb
+G:\ITI Projects\ASP.NET\Context\obj\Debug\net8.0\Context.csproj.AssemblyReference.cache
+G:\ITI Projects\ASP.NET\Context\obj\Debug\net8.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI Projects\ASP.NET\Context\obj\Debug\net8.0\Context.AssemblyInfoInputs.cache
+G:\ITI Projects\ASP.NET\Context\obj\Debug\net8.0\Context.AssemblyInfo.cs
+G:\ITI Projects\ASP.NET\Context\obj\Debug\net8.0\Context.csproj.CoreCompileInputs.cache
+G:\ITI Projects\ASP.NET\Context\obj\Debug\net8.0\Context.csproj.Up2Date
+G:\ITI Projects\ASP.NET\Context\obj\Debug\net8.0\Context.dll
+G:\ITI Projects\ASP.NET\Context\obj\Debug\net8.0\refint\Context.dll
+G:\ITI Projects\ASP.NET\Context\obj\Debug\net8.0\Context.pdb
+G:\ITI Projects\ASP.NET\Context\obj\Debug\net8.0\Context.genruntimeconfig.cache
+G:\ITI Projects\ASP.NET\Context\obj\Debug\net8.0\ref\Context.dll
